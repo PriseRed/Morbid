@@ -1,0 +1,14 @@
+{
+  "name": "morbid",
+  "version": "1.0.0",
+  "description": "Morbid",
+  "main": "./app/main.js",
+  "author": "PriseRed",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.0.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
